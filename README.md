@@ -6,6 +6,10 @@ This repository accompanies the Oral Cancer Histopathology research paper and im
 
 A hosted demo of the inference pipeline is available at https://oralcancer.francisrudra.com for quick qualitative testing.
 
+## Data Availability
+
+The is publicly available at [https://data.mendeley.com/datasets/ftmp4cvtmb/1](https://data.mendeley.com/datasets/ftmp4cvtmb/1)
+
 ## Authors
 
 -   **Author #1**: Francis Rudra D Cruze — francisrudra@gmail.com
